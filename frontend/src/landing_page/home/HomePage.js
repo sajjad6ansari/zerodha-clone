@@ -7,6 +7,7 @@ import Education from './Education'
 import OpenAccount from '../OpenAccount'
 import NavBar from '../Nabvar'
 import Footer from '../Footer'
+// import './HomePage.css'
 const HomePage = () => {
   return (
     <>
