@@ -6,6 +6,8 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
       <HomePage/>
+
+      {/* "Nabvar" component is now imported and used in HomePage. */}
   </React.StrictMode>
 );
 
