@@ -1,11 +1,11 @@
 import React from 'react'
 
-const Footer = () => {
+const Nabvar = () => {
   return (
     <div>
-      Footer
+      Nabvar
     </div>
   )
 }
 
-export default Footer
+export default Nabvar
