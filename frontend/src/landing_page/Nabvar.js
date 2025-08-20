@@ -2,9 +2,9 @@ import React from 'react'
 
 const Nabvar = () => {
   return (
-    <div>
+    <h1>
       Nabvar
-    </div>
+    </h1>
   )
 }
 

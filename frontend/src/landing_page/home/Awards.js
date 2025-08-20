@@ -2,9 +2,9 @@ import React from 'react'
 
 const Awards = () => {
   return (
-    <div>
+    <h1>
       Awards
-    </div>
+    </h1>
   )
 }
 

@@ -2,10 +2,10 @@ import React from 'react'
 
 const OpenAccount = () => {
   return (
-    <div>
+    <h1>
       OpenAccount
 
-    </div>
+    </h1>
   )
 }
 
