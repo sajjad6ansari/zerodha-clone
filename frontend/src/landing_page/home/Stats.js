@@ -2,10 +2,10 @@ import React from 'react'
 
 const Stats = () => {
   return (
-    <div>
+    <h1>
       Stats
 
-    </div>
+    </h1>
   )
 }
 
